@@ -1,0 +1,10 @@
+,0
+rows,50000
+exception_rate,2.54
+sla_breach_rate,7.38
+dup_ids,495
+reconciled,True
+top_channel,Call Center
+top_type,Wire
+peak_day,2026-08-24
+peak_rate,7.4
